@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DerpWerp
-- 👀 I’m interested in code, and applications.
-- 💯 I know HTML, JS, CSS, and some Java.
-- 🌱 I’m currently learning Python.
+- 👀 I like to make cool projects with code. (Mostly web development)
+- 🧠 I know html, javascript, css, php
+- 🌱 I’m currently obsessed with Replit
 - My Scratch account is <a href="https://scratch.mit.edu/users/--rookie--">@--Rookie--</a>
-- Check out my other accounts: <a href="https://github.com/DerpKiddo">@DerpKiddo</a> <a href="https://github.com/CoolDerpGames">@CoolDerpGames</a> <a href="https://github.com/GithubWebs">@GitHubWebs</a>
+- Check out my Replit: <a href="https://replit.com/@derpkiddo">@derpkiddo</a>
 <center>
 <img src="https://i.ibb.co/mbkg2hN/Bug-Cat-Capoo.gif">
 </center>
