@@ -44,5 +44,5 @@ full stack web developer
   <br>
 - markdown
 </details>
-<br>
+
 if you want to reach me i am available on discord at @xderpman or Derpman#0858
