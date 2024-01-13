@@ -16,6 +16,8 @@ full stack web developer
   <br>
 - linux
   <br>
+- debian
+  <br>
 - github
   <br>
 - vscode
@@ -32,7 +34,9 @@ full stack web developer
   <br>
 - shell
   <br>
-- react (learning)
+- react
+  <br>
+- vite (learning)
   <br>
 - replit
   <br>
@@ -40,7 +44,5 @@ full stack web developer
   <br>
 - markdown
 </details>
-and yes i own <a href="https://github.com/dogenetwork/v4">doge unblocker</a>
-<br>
 <br>
 if you want to reach me i am available on discord at @xderpman or Derpman#0858
