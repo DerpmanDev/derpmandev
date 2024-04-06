@@ -1,3 +1,3 @@
 /* Worker file for Doge */
 /* DO NOT DELETE */
-document.write('im gay');
+console.log('[✔️] Worker Script Loaded');
