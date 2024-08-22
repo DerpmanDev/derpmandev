@@ -1,54 +1,68 @@
-full stack web developer
-<details><summary>languages & tools i use:</summary>
-- node.js
+## Goodbye, world! 👋
+**Hello, I'm [Derpman](https://github.com/DerpmanDev) and I like making random things**
+<br>
+I'm also known for commiting war crimes in programming, so please don't ask me for help
+<details><summary><strong>Some cool things I use:</strong></summary>
+- Node.JS
   <br>
-- python
+- Python
   <br>
-- html
+- HTML
   <br>
-- css
+- CSS
   <br>
-- js
+- JavaScript
   <br>
-- gitlab
+- Git
   <br>
-- git
+- Linux
   <br>
-- linux
+- VSCode
   <br>
-- debian
+- Discord.js
   <br>
-- github
+- Discord.py
   <br>
-- vscode
+- PostgreSQL
   <br>
-- discord.js
+- TypeScript
   <br>
-- discord.py
+- Bash/Shell
   <br>
-- gpt
+- React
   <br>
-- postgres
+- Vite (learning)
   <br>
-- typescript (learning)
+- Replit
   <br>
-- shell
+- cloudflare
   <br>
-- react
+- Markdown
   <br>
-- vite (learning)
+- Astro
   <br>
-- replit
+- Tailwind
   <br>
-- cloudlfare
-  <br>
-- markdown
-  <br>
-- astro
-  <br>
-- tailwind css
-  <br>
-- daisy ui
+- DaisyUI
 </details>
 
-if you want to reach me i am available on discord at @xderpman or Derpman#0858
+## Contact 📩
+
+<table>
+  <tr>
+    <th><a>Email</a></th>
+    <td><a href="mailto:derpman@surfdoge.pro">derpman@surfdoge.pro</a></td>
+  </tr>
+  <tr>
+    <th><a>Discord:</a></th>
+    <td><img src="https://dcbadge.limes.pink/api/shield/709931479630741555" alt="" /></td>
+  </tr>
+</table>
+<br>
+
+## Profile Stats
+Most of my projects will be stored here at **[@SalyteDev](https://github.com/DogeNetwork)** instead of my profile
+<br>
+
+![](https://komarev.com/ghpvc/?username=DerpmanDev)\
+![](https://github-readme-stats.vercel.app/api?username=DerpmanDev&show_icons=true&count_private=true&hide_border=false)
