@@ -61,7 +61,7 @@ I'm also known for commiting war crimes in programming, so please don't ask me f
 <br>
 
 ## Profile Stats
-Most of my projects will be stored here at **[@SalyteDev](https://github.com/DogeNetwork)** instead of my profile
+Most of my projects will be stored here at **[@SalyteDev](https://github.com/SalyteDev)** instead of my profile
 <br>
 
 ![](https://komarev.com/ghpvc/?username=DerpmanDev)\
