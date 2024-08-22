@@ -30,7 +30,7 @@ full stack web developer
   <br>
 - postgres
   <br>
-- ts (learning)
+- typescript (learning)
   <br>
 - shell
   <br>
@@ -43,6 +43,12 @@ full stack web developer
 - cloudlfare
   <br>
 - markdown
+  <br>
+- astro
+  <br>
+- tailwind css
+  <br>
+- daisy ui
 </details>
 
 if you want to reach me i am available on discord at @xderpman or Derpman#0858
