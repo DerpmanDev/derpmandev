@@ -1,7 +1,13 @@
 ## Goodbye, world! 👋
 **Hello, I'm [Derpman](https://github.com/DerpmanDev) and I like making random things**
 <br>
-I'm also known for commiting war crimes in programming, so please don't ask me for help
+I'm also known for commiting war crimes in programming, as you can see on the title :)
+```
+Roses are red,
+Violets are blue,
+Unexpected '{'
+on Line 32
+```
 <details><summary><strong>Some cool things I use:</strong></summary>
 - Node.JS
   <br>
@@ -58,7 +64,6 @@ I'm also known for commiting war crimes in programming, so please don't ask me f
     <td><img src="https://dcbadge.limes.pink/api/shield/709931479630741555" alt="" /></td>
   </tr>
 </table>
-<br>
 
 ## Profile Stats
 Most of my projects will be stored here at **[@SalyteDev](https://github.com/SalyteDev)** instead of my profile
