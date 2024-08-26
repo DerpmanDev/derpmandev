@@ -69,5 +69,7 @@ on Line 32
 Most of my projects will be stored here at **[@SalyteDev](https://github.com/SalyteDev)** instead of my profile
 <br>
 
-![](https://komarev.com/ghpvc/?username=DerpmanDev)\
-![](https://github-readme-stats.vercel.app/api?username=DerpmanDev&show_icons=true&count_private=true&hide_border=false)
+![](https://komarev.com/ghpvc/?username=DerpmanDev)
+
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DerpmanDev&layout=compact&langs_count=8&card_width=320&theme=transparent" /></a>
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DerpmanDev&theme=transparent" /></a>
