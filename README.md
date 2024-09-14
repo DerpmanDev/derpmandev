@@ -2,12 +2,7 @@
 **Hello, I'm [Derpman](https://github.com/DerpmanDev) and I like making random things**
 <br>
 I'm also known for commiting war crimes in programming, as you can see on the title :)
-```
-Roses are red,
-Violets are blue,
-Unexpected '{'
-on Line 32
-```
+
 <details><summary><strong>Some cool things I use:</strong></summary>
 - Node.JS
   <br>
@@ -72,4 +67,3 @@ Most of my projects will be stored here at **[@SalyteDev](https://github.com/Sal
 ![](https://komarev.com/ghpvc/?username=DerpmanDev)
 
 <a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DerpmanDev&layout=compact&langs_count=8&card_width=320&theme=transparent" /></a>
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DerpmanDev&theme=transparent" /></a>
